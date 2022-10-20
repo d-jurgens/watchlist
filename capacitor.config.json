@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Watchlist",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

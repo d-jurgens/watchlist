@@ -1,0 +1,8 @@
+{
+  "name": "Watchlist",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "cf8dfac1"
+}
